@@ -1,0 +1,10 @@
+[Unit]
+Description=ABRT Automated Bug Reporting Tool
+
+[Service]
+ExecStart=/opt/hoge/gello
+Type=simple
+User=fuga
+
+[Install]
+WantedBy=multi-user.target

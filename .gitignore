@@ -1,0 +1,5 @@
+repo
+rpmbuild/BUILD/*
+rpmbuild/BUILDROOT
+rpmbuild/RPMS/*
+rpmbuild/SOURCES/*.tar.gz
